@@ -5,7 +5,7 @@ for i in range(1,4):
 newline() 
 
 
-#program to find sum of all number 
+#program to find sum of all numbers
 
 numbers = [6, 5, 3, 8, 4, 2, 5, 4, 11]
 
